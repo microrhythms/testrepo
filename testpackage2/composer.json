@@ -1,0 +1,17 @@
+{
+    "name": "microrhythms/testpackage2",
+    "type": "library",
+    "description": "Test repo",
+    "keywords": ["test"],
+    "homepage": "https://github.com/microrhythms/testrepo/testpackage2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Test",
+            "email": "test@test.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    }
+}
