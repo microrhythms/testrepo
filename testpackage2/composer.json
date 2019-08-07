@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Test repo",
     "keywords": ["test"],
-    "homepage": "https://github.com/microrhythms/testrepo/testpackage2",
+    "homepage": "https://github.com/microrhythms/testrepo/tree/master/testpackage2",
     "license": "MIT",
     "authors": [
         {
